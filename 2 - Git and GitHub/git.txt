@@ -21,7 +21,7 @@ git init
 - Check the status
 git status
 
-- Add file to the staging are
+- Add file to the staging area
 git add .
 
 - Create a commit 
